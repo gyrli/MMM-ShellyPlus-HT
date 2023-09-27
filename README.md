@@ -52,5 +52,5 @@ Note: ShellyPlus HT is asleep normally and just wakes up for a few seconds perio
 
 ## Debugging
 
-If you encounter problems , the just simply use your browsers in-built web-console IDE ( usually available by pressing STRG + Shift + i ) and look for shelly's API communication
+If you encounter problems , then just simply use your browsers built-in web-console IDE ( usually available by pressing STRG + Shift + i ) and look for shelly's API communication
 Or read the MagicMirror Log-file for any hints....
