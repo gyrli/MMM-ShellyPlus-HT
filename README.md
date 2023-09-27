@@ -22,21 +22,21 @@ You need to have a MagicMirror up and running, and also a Shelly+ HT sensor with
 The MagicMirror must have the legacy "request" Package installed  :
 
 ```
-npm install request
+$> npm install request
 ```
 
 or use the alternative without any guaranty :
 
 ```
-npm i postman-request
+$> npm i postman-request
 ```
 
 ## Installing
 
 Go to your MagicMirror directory
 ```
-cd modules
-git clone https://github.com/Medve01/Shelly-HT.git
+$> cd modules
+$> git clone https://github.com/IoT-Coder/MMM-ShellyPlus-HT
 ```
 check our the config.sample.js in the module directory. 
 
