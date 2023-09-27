@@ -14,7 +14,7 @@ Current status is proven to work on my Magic Mirror and the one of my friend....
 Feel free to enhance and include more features :)
 
 ## Module Screenshot
-![shelly+ HT display](shellyplus-ht.jpg)
+![shelly+ HT display](https://github.com/IoT-Coder/MMM-ShellyPlus-HT/blob/main/shellyplus-ht.jpg)
 
 ## Prerequisites
 You need to have a MagicMirror up and running, and also a Shelly+ HT sensor with a fixed IP.
