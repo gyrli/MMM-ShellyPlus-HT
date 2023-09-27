@@ -1,4 +1,4 @@
-# ShellyPlus-HT Adapter
+# Magic Mirror module for ShellyPlus-HT Adapter
 
 ## Description
 This is a simple MagicMirror module to display the sensor data (temperature,humidity and Voltage) of one ShellyPlus HT Adapter on the Magic Mirror (Forked from previous Shelly-HT module)
