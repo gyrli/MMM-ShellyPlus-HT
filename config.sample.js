@@ -1,8 +1,8 @@
 ﻿//Include this into your config.js file
 
 		{
-			module: "Shelly-HT",
-			header: "Shelly-HT",
+			module: "MMM-ShellyPlus-HT",
+			header: "Shelly+ HT",
 			position: "bottom_left",
 			config: {
 				//Your Shelly HT needs to have a fixed IP (or your LAN must be supporting mDNS)
