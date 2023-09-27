@@ -1,8 +1,6 @@
 Module.register("MMM-ShellyPlus-HT",{
 	// Default module config.
 	defaults: {
-		//Just a mock API I used for development
-		ShellyHTApiPath: "http://www.mocky.io/v2/5e9999183300003e267b2744",
 		ShellyHTApiPath_t: "http://192.168.178.126/rpc/Temperature.GetStatus?id=0",
 		ShellyHTApiPath_h: "http://192.168.178.126/rpc/Humidity.GetStatus?id=0",
 		ShellyHTApiPath_b: "http://192.168.178.126/rpc/DevicePower.GetStatus?id=0",
@@ -79,8 +77,8 @@ Module.register("MMM-ShellyPlus-HT",{
 	},
 	getTranslations: function() {
         return  {
-			de:	'translations/de.json',
-			nl:	'translations/nl.json',
+			de: 'translations/de.json',
+			nl: 'translations/nl.json',
 			en: 'translations/en.json'
 		};
 	}
