@@ -38,7 +38,7 @@ Go to your MagicMirror directory
 $> cd modules
 $> git clone https://github.com/IoT-Coder/MMM-ShellyPlus-HT
 ```
-check our the config.sample.js in the module directory. 
+check out the config.sample.js in the module directory. 
 
 Copy the content to your config.js and change it as necessary. 
 
