@@ -1,0 +1,31 @@
+﻿.MMM-ShellyPlus-HT div.container {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.MMM-ShellyPlus-HT p.bottom {
+    margin: 0px;
+    padding: 0px;
+    font-size: 40%;
+    line-height: 100%;
+    float: right;
+    clear:right;
+}
+
+.MMM-ShellyPlus-HT div.right {
+    float: right;
+    padding-left:10px;
+}
+
+.MMM-ShellyPlus-HT div.newline {
+    padding-left:10px;
+    clear: right;
+}
+
+.MMM-ShellyPlus-HT div sup {
+    vertical-align: super;
+    font-size: 40%;
+    padding-right: 10px;
+}
+
