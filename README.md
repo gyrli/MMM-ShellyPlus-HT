@@ -15,7 +15,10 @@ Feel free to enhance and include more features :)
 
 ## Module Screenshot
 
-![ScreenShot](ShellyHTPlus.png)
+
+![ShellyHTPlus](https://github.com/IoT-Coder/MMM-ShellyPlus-HT/assets/146182054/8eda5af7-9725-45eb-9d58-7c1e2e2cd76a)
+
+
 
 
 
