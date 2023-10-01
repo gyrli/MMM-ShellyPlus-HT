@@ -1,31 +1,47 @@
-﻿.MMM-ShellyPlus-HT div.container {
+.MMM-ShellyPlus-HT div.container {
     margin: 0px;
     padding: 0px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    vertical-align: bottom;
+    font-size: 100%;
+    line-height:75%;
+    color: #FFF;
 }
 
 
 .MMM-ShellyPlus-HT p.bottom {
-    margin: 0px;
+    margin: 10px;
     padding: 0px;
-    font-size: 40%;
-    line-height: 100%;
+    font-size: 50%;
+    line-height: 75%;
     float: right;
     clear:right;
+    vertical-align:bottom;
+    color: rgb(255,132,16);
 }
 
 .MMM-ShellyPlus-HT div.right {
+    vertical-align:bottom;
     float: right;
     padding-left:10px;
 }
 
 .MMM-ShellyPlus-HT div.newline {
+    vertical-align:bottom;
     padding-left:10px;
     clear: right;
+    font-size: 120%;
+    line-height:75%;
+    color: #FFF;
 }
 
 .MMM-ShellyPlus-HT div sup {
-    vertical-align: super;
+    vertical-align:bottom;
     font-size: 40%;
     padding-right: 10px;
+    font-size: 50%;
+    line-height:75%;
+    color: #999;
 }
 
